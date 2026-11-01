@@ -100,3 +100,15 @@ The current prop can run a repeating spider movement:
 - Optional 400 Hz burst starts at the same time as the motor
 
 This is useful for a dangling spider that twitches when someone gets close.
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/0d766b3d-824f-499f-813f-7ea7307b2916
+
+
+
+
+
+
